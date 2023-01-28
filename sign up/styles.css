@@ -1,0 +1,20 @@
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  text-align: center;
+}
+body{
+  padding: 7% 15%;
+  background-color: #2DCDDF;
+  text-align: left;
+}
+.container-fluid{
+  background-color: #fff;
+  
+}
+h2{
+  display: inline;
+  line-height: 2;
+  margin: 2px;
+  text-align: center;
+}
